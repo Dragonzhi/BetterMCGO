@@ -36,7 +36,7 @@ public class EventHandler
                     else
                     {
                         // 移除发光效果
-                        entity.setGlowingTag(false);//
+                        entity.setGlowingTag(false);
                     }
                 }
             }

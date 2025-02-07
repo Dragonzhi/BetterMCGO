@@ -13,7 +13,7 @@ public class BetterMCGOMod
 
     public BetterMCGOMod()
     {
-        // 注册事件处理器//
+        // 注册事件处理器
         MinecraftForge.EVENT_BUS.register(new EventHandler());
         LOGGER.info("BetterMCGOMod initialized!");
     }
